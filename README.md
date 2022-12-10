@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](https://raw.githubusercontent.com/ByAxios/react-movie-app/master/screenshot.png)
 
 ## Available Scripts
 
